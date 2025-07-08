@@ -1,0 +1,14 @@
+C:\Workspaces\csharp\fundamentals\obj\Debug\net9.0\fundamentals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspaces\csharp\fundamentals\obj\Debug\net9.0\fundamentals.AssemblyInfoInputs.cache
+C:\Workspaces\csharp\fundamentals\obj\Debug\net9.0\fundamentals.AssemblyInfo.cs
+C:\Workspaces\csharp\fundamentals\obj\Debug\net9.0\fundamentals.csproj.CoreCompileInputs.cache
+C:\Workspaces\csharp\fundamentals\bin\Debug\net9.0\fundamentals.exe
+C:\Workspaces\csharp\fundamentals\bin\Debug\net9.0\fundamentals.deps.json
+C:\Workspaces\csharp\fundamentals\bin\Debug\net9.0\fundamentals.runtimeconfig.json
+C:\Workspaces\csharp\fundamentals\bin\Debug\net9.0\fundamentals.dll
+C:\Workspaces\csharp\fundamentals\bin\Debug\net9.0\fundamentals.pdb
+C:\Workspaces\csharp\fundamentals\obj\Debug\net9.0\fundamentals.dll
+C:\Workspaces\csharp\fundamentals\obj\Debug\net9.0\refint\fundamentals.dll
+C:\Workspaces\csharp\fundamentals\obj\Debug\net9.0\fundamentals.pdb
+C:\Workspaces\csharp\fundamentals\obj\Debug\net9.0\fundamentals.genruntimeconfig.cache
+C:\Workspaces\csharp\fundamentals\obj\Debug\net9.0\ref\fundamentals.dll

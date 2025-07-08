@@ -1,0 +1,14 @@
+C:\Workspaces\csharp\fundamentals\types_system\bin\Debug\net9.0\types_system.exe
+C:\Workspaces\csharp\fundamentals\types_system\bin\Debug\net9.0\types_system.deps.json
+C:\Workspaces\csharp\fundamentals\types_system\bin\Debug\net9.0\types_system.runtimeconfig.json
+C:\Workspaces\csharp\fundamentals\types_system\bin\Debug\net9.0\types_system.dll
+C:\Workspaces\csharp\fundamentals\types_system\bin\Debug\net9.0\types_system.pdb
+C:\Workspaces\csharp\fundamentals\types_system\obj\Debug\net9.0\types_system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspaces\csharp\fundamentals\types_system\obj\Debug\net9.0\types_system.AssemblyInfoInputs.cache
+C:\Workspaces\csharp\fundamentals\types_system\obj\Debug\net9.0\types_system.AssemblyInfo.cs
+C:\Workspaces\csharp\fundamentals\types_system\obj\Debug\net9.0\types_system.csproj.CoreCompileInputs.cache
+C:\Workspaces\csharp\fundamentals\types_system\obj\Debug\net9.0\types_system.dll
+C:\Workspaces\csharp\fundamentals\types_system\obj\Debug\net9.0\refint\types_system.dll
+C:\Workspaces\csharp\fundamentals\types_system\obj\Debug\net9.0\types_system.pdb
+C:\Workspaces\csharp\fundamentals\types_system\obj\Debug\net9.0\types_system.genruntimeconfig.cache
+C:\Workspaces\csharp\fundamentals\types_system\obj\Debug\net9.0\ref\types_system.dll
