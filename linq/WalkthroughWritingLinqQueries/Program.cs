@@ -148,3 +148,20 @@ foreach (var item in aboveAverageQuery8)
 {
     Console.WriteLine("Student ID: {0}, Score: {1}", item.id, item.score);
 }
+
+// This example demonstrates grouping and pattern matching in LINQ queries.
+// It groups a list of integers into even and odd numbers.
+
+List<int> numbers = [35, 44, 200, 84, 3987, 4, 199, 329, 446, 208];
+
+IEnumerable<IGrouping<int, int>> query = from number in numbers
+                                         group number by number % 2;
+
+foreach (var group in query)
+{
+    Console.WriteLine(group.Key == 0 ? "\nEven numbers:" : "\nOdd numbers:");
+    foreach (int i in group)
+    {
+        Console.WriteLine(i);
+    }
+}
